@@ -1,6 +1,6 @@
 - 👋 Olá! Eu sou a Janaide Nogueira.
 - 👩‍💻 Hoje trabalho com Inteligência Artificial e Ciência de Dados.
-- 👩‍🎓 Estudando doutorado em Ciências da Computação (Ciência de Dados). 
+- 👩‍🎓 Curso doutorado em Ciências da Computação - UECE. 
 - 📫 Como me achar?
   -   email: nogueirajanaide@gmail.com;
   -   [Linkedin](https://www.linkedin.com/in/janaide-nogueira-de-s-ximenes-54aa0644/)
